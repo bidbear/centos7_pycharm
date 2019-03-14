@@ -6,6 +6,7 @@
 2.解压软件包
 
    `tar -xf pycharm-professional-2018.1.4.tar.gz`
+   
 3.进入解压后的bin目录执行安装命令
 
    ./pycharm.sh 
